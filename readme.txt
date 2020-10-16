@@ -1,6 +1,6 @@
 === Site Reviews ===
-Contributors: geminilabs, pryley
-Donate link: https://www.paypal.me/pryley
+Contributors: geminilabs, polinar68 
+Donate link: https://www.paypal.me/lpaulramos
 Tags: reviews, ratings, testimonials, business reviews, product reviews, stars, star ratings
 Tested up to: 5.5
 Requires at least: 4.7.0
@@ -19,7 +19,7 @@ The plugin provides blocks, shortcodes, and widgets, along with full documentati
 
 You can pin your best reviews so that they are always shown first, require approval before new review submissions are published, require visitors to be logged-in in order to write a review, send custom notifications on a new submission, and much more.
 
-[Follow plugin development on Github.](https://github.com/pryley/site-reviews/)
+[Follow plugin development on Github.](https://github.com/polinar68/site-reviews/)
 
 = Current Features =
 
